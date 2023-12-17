@@ -2,7 +2,7 @@
 # Assignment 1: Discovering VMX Features
 
 #### 1. For each member in your team, provide 1 paragraph detailing what parts of the lab that member  implemented / researched. (You may skip this question if you are doing the lab by yourself).
-- *Akanksha Pingle(22544463453)*
+- *Akanksha Pingle(017467996)*
   - Created VM on google cloud compute engine using cloudshell.
   - Installed required dependencies on launched VM : gcc, make, linux-headers.
   - Enabled SSH Authentication on VM launched on google cloud.
@@ -12,7 +12,7 @@
   - complied new module using `make` to load new module in to the kernel and inserted module in kernel.
   - updated readme file with instruction to launch VM instance and compiling the new module, committed [dmesg](cmpe283-1/dmesg.out) to git.
 
-- *Saharat Saengsawang*
+- *Saharat Saengsawang(016770260)*
   - Gathered definitions for VMX capabilities for VMEXIT and Teritary Procbased controls.
   - Gathered definitions for VMX capabilities for VMENTRY, Primary and Secondary Procbased controls.
   - updated readme file with instruction to ssh to VM instance, inserting new module and removing new module to kernel.
